@@ -10,5 +10,7 @@
 - KeePassXC (if not using Bitwarden)
 - Virtualbox
 - Vagrant
+- Docker
 - Ansible
 - Wireshark
+- Splunk
